@@ -1,0 +1,5 @@
+full file = https://drive.google.com/drive/folders/1nWGQVBkSXNdhZh2wQStX6ATR4I-NcESs?usp=drive_link
+
+the model give around 60-92% accuracy 
+
+  The model is train on image data of malaria by using convolution neural net using configration of LENET
